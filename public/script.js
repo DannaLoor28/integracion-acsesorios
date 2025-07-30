@@ -1,7 +1,7 @@
 const productos = [
   { nombre: "Pulsera", precio: 5.00, imagen: "https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/denouer-b/alloycolour/yellow.jpg" },
   { nombre: "Collar", precio: 8.00, imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5OMhitZf4liE4iVCnpjvj9IoaAMh_q668Yg&s" },
-  { nombre: "Anillo", precio: 4.50, imagen: "https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/21193gisu1-round/diamond/diamond-zirconia_AAAAA/stone2/diamond-zirconia_AAAAA/stone3/diamond-zirconia_AAAAA/alloycolour/yellow.jpg" }
+  { nombre: "Anillo", precio: 4.50, imagen: "https://m.media-amazon.com/images/I/71jvlUtggJL._AC_SL1200_.jpg" }
 ];
 
 const galeria = document.getElementById('galeria');
